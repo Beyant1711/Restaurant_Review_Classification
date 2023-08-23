@@ -1,7 +1,11 @@
 # Restaurant_Review_Classification
 
 #Project Title: Restaurant Review Classification using NLP in Python
+
+
 #Objectives:
+
+
 To develop a restaurant review classification model using natural language processing (NLP) techniques in Python. To train the model on a dataset of restaurant reviews and to accurately classify reviews as positive or negative. To use the model to help restaurants improve their customer service and to identify areas where they can improve their food and service. Methodology:
 
 The project was carried out in the following steps:
